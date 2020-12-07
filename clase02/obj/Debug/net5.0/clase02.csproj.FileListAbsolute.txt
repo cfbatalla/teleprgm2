@@ -1,0 +1,16 @@
+/home/carlosfranz/Documents/MyCode/teleprgm2/clase02/bin/Debug/net5.0/clase02
+/home/carlosfranz/Documents/MyCode/teleprgm2/clase02/bin/Debug/net5.0/clase02.deps.json
+/home/carlosfranz/Documents/MyCode/teleprgm2/clase02/bin/Debug/net5.0/clase02.runtimeconfig.json
+/home/carlosfranz/Documents/MyCode/teleprgm2/clase02/bin/Debug/net5.0/clase02.runtimeconfig.dev.json
+/home/carlosfranz/Documents/MyCode/teleprgm2/clase02/bin/Debug/net5.0/clase02.dll
+/home/carlosfranz/Documents/MyCode/teleprgm2/clase02/bin/Debug/net5.0/ref/clase02.dll
+/home/carlosfranz/Documents/MyCode/teleprgm2/clase02/bin/Debug/net5.0/clase02.pdb
+/home/carlosfranz/Documents/MyCode/teleprgm2/clase02/obj/Debug/net5.0/clase02.csprojAssemblyReference.cache
+/home/carlosfranz/Documents/MyCode/teleprgm2/clase02/obj/Debug/net5.0/clase02.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlosfranz/Documents/MyCode/teleprgm2/clase02/obj/Debug/net5.0/clase02.AssemblyInfoInputs.cache
+/home/carlosfranz/Documents/MyCode/teleprgm2/clase02/obj/Debug/net5.0/clase02.AssemblyInfo.cs
+/home/carlosfranz/Documents/MyCode/teleprgm2/clase02/obj/Debug/net5.0/clase02.csproj.CoreCompileInputs.cache
+/home/carlosfranz/Documents/MyCode/teleprgm2/clase02/obj/Debug/net5.0/clase02.dll
+/home/carlosfranz/Documents/MyCode/teleprgm2/clase02/obj/Debug/net5.0/ref/clase02.dll
+/home/carlosfranz/Documents/MyCode/teleprgm2/clase02/obj/Debug/net5.0/clase02.pdb
+/home/carlosfranz/Documents/MyCode/teleprgm2/clase02/obj/Debug/net5.0/clase02.genruntimeconfig.cache
