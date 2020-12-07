@@ -1,7 +1,7 @@
 ﻿using System;
 using Vehiculos;
 
-namespace clase_01{
+namespace clase_02{
     class Program{
         static void Main(string[] args){
             string nombre = null;
