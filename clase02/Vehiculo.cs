@@ -8,7 +8,7 @@ namespace Vehiculos{
         string placa;
         double precio;
         int CantidadDePuertas;
-        string modelo;
+        public string modelo;
         bool LucesTraserasEncendidad = false;
     //declaramos metodos de la clase
         public void Arrancar(){
