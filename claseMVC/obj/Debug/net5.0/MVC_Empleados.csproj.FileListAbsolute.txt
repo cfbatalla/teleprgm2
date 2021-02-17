@@ -1,0 +1,16 @@
+/home/carlosfranz/Documents/MyCode/MVC_Empleados/bin/Debug/net5.0/MVC_Empleados
+/home/carlosfranz/Documents/MyCode/MVC_Empleados/bin/Debug/net5.0/MVC_Empleados.deps.json
+/home/carlosfranz/Documents/MyCode/MVC_Empleados/bin/Debug/net5.0/MVC_Empleados.runtimeconfig.json
+/home/carlosfranz/Documents/MyCode/MVC_Empleados/bin/Debug/net5.0/MVC_Empleados.runtimeconfig.dev.json
+/home/carlosfranz/Documents/MyCode/MVC_Empleados/bin/Debug/net5.0/MVC_Empleados.dll
+/home/carlosfranz/Documents/MyCode/MVC_Empleados/bin/Debug/net5.0/ref/MVC_Empleados.dll
+/home/carlosfranz/Documents/MyCode/MVC_Empleados/bin/Debug/net5.0/MVC_Empleados.pdb
+/home/carlosfranz/Documents/MyCode/MVC_Empleados/obj/Debug/net5.0/MVC_Empleados.csprojAssemblyReference.cache
+/home/carlosfranz/Documents/MyCode/MVC_Empleados/obj/Debug/net5.0/MVC_Empleados.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlosfranz/Documents/MyCode/MVC_Empleados/obj/Debug/net5.0/MVC_Empleados.AssemblyInfoInputs.cache
+/home/carlosfranz/Documents/MyCode/MVC_Empleados/obj/Debug/net5.0/MVC_Empleados.AssemblyInfo.cs
+/home/carlosfranz/Documents/MyCode/MVC_Empleados/obj/Debug/net5.0/MVC_Empleados.csproj.CoreCompileInputs.cache
+/home/carlosfranz/Documents/MyCode/MVC_Empleados/obj/Debug/net5.0/MVC_Empleados.dll
+/home/carlosfranz/Documents/MyCode/MVC_Empleados/obj/Debug/net5.0/ref/MVC_Empleados.dll
+/home/carlosfranz/Documents/MyCode/MVC_Empleados/obj/Debug/net5.0/MVC_Empleados.pdb
+/home/carlosfranz/Documents/MyCode/MVC_Empleados/obj/Debug/net5.0/MVC_Empleados.genruntimeconfig.cache
